@@ -1,0 +1,24 @@
+@import "estilos/colores";
+@import "estilos/mediaq";
+@import "estilos/ColorMosaico";
+@import "estilos/proyecto";
+@import "estilos/sobreMi";
+@import "estilos/tlapalli";
+@import "estilos/contacto";
+@import "estilos/nombreFrase";
+
+/*Universales*/
+* {
+	font-family: 'Raleway', sans-serif;
+}
+body {
+	background-color: $ColorE;
+}
+footer {
+	background-color: $ColorLetras;
+	color: $White;
+	margin-top: 5%;
+}
+
+
+

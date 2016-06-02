@@ -1,0 +1,54 @@
+/*Back de panel*/
+.BackIndex1 {
+	margin-bottom: 2%;
+	color: $ColorK;
+}
+/*Cuadricula*/
+.BackA{
+	background-color: $ColorA;
+	cursor: pointer;
+}
+.BackB{
+	background-color: $ColorB;
+	cursor: pointer;
+}
+.BackC{
+	background-color: $ColorC;
+	cursor: pointer;
+}
+.BackD{
+	background-color: $ColorD;
+	cursor: pointer;
+}
+.BackE{
+	background-color: $ColorE;
+}
+.BackF {
+	background-color: $ColorF;
+	color: $White;
+}
+.BackG {
+	background-color: $ColorG;
+}
+.CajasMenu {
+	font-size: 30px;
+	padding-top: 9%;
+	color: $White;
+	font-weight: bold;
+}
+.classHover:hover {
+	background-color: #E5C108;
+}
+.classHover2:hover {
+	background-color: #E5DF20;
+}
+.classHover3:hover {
+	background-color: #E0FA1B;
+}
+.clasHover4:hover{
+	background-color: #A1FF28;
+}
+.CajasMenu:hover {
+	color: #4B9180;
+	font-weight: bold;
+}

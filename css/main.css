@@ -1,0 +1,229 @@
+/*..............Medias..................*/
+@media (max-width: 770px) {
+  .Ico-X {
+    display: none; }
+
+  .CajasMenu {
+    padding: 2% 0% !important; }
+
+  .Comillas {
+    font-size: 18px !important; }
+
+  .ImgTlapalli {
+    width: 40%; }
+
+  .IcoContac {
+    width: 20% !important; }
+
+  .CarruselR {
+    margin-top: 5% !important; }
+
+  .ImgFoto {
+    border-radius: 100%;
+    width: 40% !important; } }
+/*Back de panel*/
+.BackIndex1 {
+  margin-bottom: 2%;
+  color: #2C362A; }
+
+/*Cuadricula*/
+.BackA {
+  background-color: #16A78C;
+  cursor: pointer; }
+
+.BackB {
+  background-color: #5DB59F;
+  cursor: pointer; }
+
+.BackC {
+  background-color: #98D4C5;
+  cursor: pointer; }
+
+.BackD {
+  background-color: #9CC1B2;
+  cursor: pointer; }
+
+.BackE {
+  background-color: #F1F5F3; }
+
+.BackF {
+  background-color: #3BA095;
+  color: #FFFFFF; }
+
+.BackG {
+  background-color: #7F0D68; }
+
+.CajasMenu {
+  font-size: 30px;
+  padding-top: 9%;
+  color: #FFFFFF;
+  font-weight: bold; }
+
+.classHover:hover {
+  background-color: #E5C108; }
+
+.classHover2:hover {
+  background-color: #E5DF20; }
+
+.classHover3:hover {
+  background-color: #E0FA1B; }
+
+.clasHover4:hover {
+  background-color: #A1FF28; }
+
+.CajasMenu:hover {
+  color: #4B9180;
+  font-weight: bold; }
+
+/*................Proyectos................*/
+a {
+  text-decoration: none !important;
+  color: #0C6354; }
+
+a:hover {
+  color: #0C6354; }
+
+.Button {
+  background-color: #B6DA0B; }
+
+.Button:hover {
+  background-color: #E0FA1B; }
+
+.CarruselR {
+  margin-top: 1%; }
+
+.carousel-control.right {
+  background-image: none !important; }
+
+.carousel-control.left {
+  background-image: none !important; }
+
+.active {
+  background-color: !important; }
+
+.S2 {
+  color: #FFFFFF; }
+
+.BackIco {
+  color: #F0C22A; }
+
+.PaddingX {
+  padding: 1%; }
+
+.MarginX {
+  margin-top: 3%; }
+
+.C1 {
+  background-color: #0C6354; }
+
+.C2 {
+  background-color: #48A588; }
+
+.C3 {
+  background-color: #7B9677; }
+
+.Panel {
+  color: #FFFFFF; }
+
+/*................Sobre mi................*/
+ul {
+  padding-left: 0%; }
+
+li {
+  list-style: none; }
+
+.Mtop {
+  padding-top: 1%; }
+
+.Azul {
+  color: #0A3832; }
+
+.ImgAncho {
+  width: 20%; }
+
+.Border {
+  border-bottom: 2px solid #3BA095;
+  border-top: 2px solid #3BA095;
+  margin: 10px 0px; }
+
+.ImgNello {
+  width: 20%; }
+
+.progress-bar {
+  background-color: #B6DA0B !important; }
+
+.Barrab {
+  background-color: #B01760 !important; }
+
+.ImgFoto {
+  border-radius: 100%;
+  width: 20%; }
+
+.FHover {
+  display: none; }
+
+.ImgFoto {
+  border: 6px solid #9CC1B2; }
+
+.ImgFoto:hover {
+  border: 6px solid #A1FF28; }
+
+/*.................Tlapalli....................*/
+.ImgTlapalli {
+  width: 22%; }
+
+.TextWhite {
+  color: #FFFFFF; }
+
+/*.................Contact....................*/
+.Contact {
+  padding: 2% 0%; }
+
+hr {
+  border: 1px solid #7F0D68; }
+
+i {
+  margin-top: 40px; }
+
+.Comillas {
+  font-size: 27px; }
+
+.IcoContac {
+  width: 6%;
+  margin: 2% 2% 0% 2%; }
+
+.llaves {
+  color: #4B9180; }
+
+h1 {
+  color: #FFFFFF;
+  margin-bottom: 8%; }
+
+.L1 {
+  background-color: #16A78C; }
+
+.L2 {
+  background-color: #B6DA0B; }
+
+.Lp {
+  padding: 5px; }
+
+.DivImg {
+  width: 100%; }
+
+.Img {
+  width: 100%; }
+
+/*Universales*/
+* {
+  font-family: 'Raleway', sans-serif; }
+
+body {
+  background-color: #F1F5F3; }
+
+footer {
+  background-color: #B6DA0B;
+  color: #FFFFFF;
+  margin-top: 5%; }
+
+/*# sourceMappingURL=main.css.map */

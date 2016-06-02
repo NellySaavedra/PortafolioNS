@@ -1,0 +1,43 @@
+/*................Sobre mi................*/
+ul {
+	padding-left: 0%;
+}
+li {
+	list-style: none;
+}
+.Mtop {
+	padding-top: 1%;
+}
+.Azul {
+	color: $ColorFuente;
+}
+.ImgAncho {
+	width: 20%;
+}
+.Border {
+	border-bottom: 2px solid $ColorF;
+	border-top: 2px solid $ColorI;
+	margin: 10px 0px;
+}
+.ImgNello {
+	width: 20%;
+}
+.progress-bar {
+	background-color: $ColorLetras !important;
+}
+.Barrab {
+	background-color: #B01760 !important;
+}
+.ImgFoto {
+	border-radius: 100%;
+	width: 20%;
+}
+.FHover {
+	display: none;
+}
+.ImgFoto {
+	border: 6px solid $ColorD;
+}
+.ImgFoto:hover {
+	border: 6px solid #A1FF28;
+}

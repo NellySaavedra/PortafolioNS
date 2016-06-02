@@ -1,0 +1,51 @@
+/*................Proyectos................*/
+a {
+	text-decoration: none !important;
+	color: $BackCarruselA;
+}
+a:hover {
+	color: $BackCarruselA
+}
+.Button{
+	background-color:$ColorLetras;
+}
+.Button:hover {
+	background-color: #E0FA1B;
+}
+.CarruselR {
+	margin-top: 1%;
+}
+.carousel-control.right {
+	background-image: none!important;
+}
+.carousel-control.left {
+	background-image: none!important;
+}
+.active {
+	background-color:  !important;
+}
+.S2 {
+	color: $White;
+}
+.BackIco {
+	color: $ColorH;
+}
+.PaddingX {
+	padding: 1%;
+}
+.MarginX {
+	margin-top: 3%;
+}
+.C1 {
+	background-color: $BackCarruselA;
+}
+.C2 {
+	background-color: $BackCarruselB;
+}
+.C3 {
+	background-color: $BackCarruselC;
+
+}
+.Panel {
+	color: $White;
+}
