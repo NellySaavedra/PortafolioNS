@@ -20,7 +20,10 @@
 
   .ImgFoto {
     border-radius: 100%;
-    width: 40% !important; } }
+    width: 40% !important; }
+
+  .ImgSignos {
+    width: 10%; } }
 /*Back de panel*/
 .BackIndex1 {
   margin-bottom: 2%;
@@ -124,6 +127,10 @@ a:hover {
 
 .Panel {
   color: #FFFFFF; }
+
+.ImgSignos {
+  margin-top: 2%;
+  width: 3%; }
 
 /*................Sobre mi................*/
 ul {
