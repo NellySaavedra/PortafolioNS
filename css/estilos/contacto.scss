@@ -2,6 +2,17 @@
 .Contact {
 	padding: 2% 0%;
 }
+.ContacText {
+	h5 {
+		color: #778E72;
+	}
+	.L1 {
+		color: $White !important;
+	}
+	.Lp {
+	padding: 2px 5px;
+	}
+}
 hr {
 	border: 1px solid $ColorG;
 }
@@ -12,7 +23,7 @@ i{
 	font-size: 27px;
 }
 .IcoContac {
-	width: 6%;
+	width: 20%;
 	margin: 2% 2% 0% 2%;
 }
 .llaves {
