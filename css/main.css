@@ -57,7 +57,7 @@
   color: #FFFFFF; }
 
 .BackG {
-  background-color: #7F0D68; }
+  background-color: #B01760; }
 
 .CajasMenu {
   font-size: 30px;
@@ -114,7 +114,7 @@ a:hover {
   color: #F0C22A; }
 
 .PaddingX {
-  padding: 1%; }
+  padding: 2%; }
 
 .MarginX {
   margin-top: 3%; }
@@ -138,6 +138,15 @@ a:hover {
 .ImgSignos2 {
   margin: 1%;
   width: 3%; }
+
+.BackSolid {
+  background-color: #9CC1B2;
+  color: #003955;
+  padding: 2%;
+  margin-top: 2%; }
+  .BackSolid li {
+    display: inline-block;
+    color: #003955; }
 
 /*................Sobre mi................*/
 ul {
@@ -182,6 +191,14 @@ li {
 .ImgFoto:hover {
   border: 6px solid #A1FF28; }
 
+.CV {
+  font-size: 20px; }
+  .CV .L2 {
+    padding: 1%;
+    color: #FFFFFF; }
+  .CV .L2:hover {
+    background-color: #E5C108; }
+
 /*.................Tlapalli....................*/
 .ImgTlapalli {
   width: 22%; }
@@ -193,15 +210,13 @@ li {
 .Contact {
   padding: 2% 0%; }
 
-.ContacText h5 {
+.ContacText h4 {
   color: #778E72; }
-.ContacText .L1 {
-  color: #FFFFFF !important; }
 .ContacText .Lp {
   padding: 2px 5px; }
 
 hr {
-  border: 1px solid #7F0D68; }
+  border: 1px solid #B01760; }
 
 i {
   margin-top: 40px; }
@@ -221,7 +236,8 @@ h1 {
   margin-bottom: 8%; }
 
 .L1 {
-  background-color: #16A78C; }
+  background-color: #16A78C;
+  color: #FFFFFF; }
 
 .L2 {
   background-color: #B6DA0B; }
@@ -245,6 +261,6 @@ body {
 footer {
   background-color: #B6DA0B;
   color: #FFFFFF;
-  margin-top: 5%; }
+  margin-top: 5.5%; }
 
 /*# sourceMappingURL=main.css.map */

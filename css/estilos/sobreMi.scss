@@ -41,3 +41,14 @@ li {
 .ImgFoto:hover {
 	border: 6px solid #A1FF28;
 }
+.CV {
+	font-size: 20px;
+	.L2 {
+		padding: 1%;
+		color: $White;
+	}
+	.L2:hover {
+		background-color: #E5C108;
+	}
+}
+
